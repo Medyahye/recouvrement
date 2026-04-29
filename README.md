@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Systeme de priorisation des zones de recouvrement SNDE
 
 Application web composee de:
@@ -169,3 +170,6 @@ Filtres supportes:
 - `frontend/src/app/zones/page.tsx`
 - `frontend/src/app/clients/page.tsx`
 - `frontend/src/app/reports/page.tsx`
+=======
+# recouvrement
+>>>>>>> 268ec53e71c8e131a35be84eca7e580cc55edc92
